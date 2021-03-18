@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4e3436c-4377-4b05-ac3e-7eec357f3ac4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Python" />
+  </component>
+  <component name="ProjectId" id="1YIcdydNPTv2yndtRwmdloFKKyc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chaptor4" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter10" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chaptor4" />
+      <recent name="$PROJECT_DIR$/Chapter3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.9-4numbersevd_pages234">
+    <configuration name="7-1rental Car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chaptor 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chaptor 7/7-1rental Car" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-1Restaurant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter9/9-1Restaurant.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-2Three Restaurant P228" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter9/9-2Three Restaurant P228.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-3Users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter9/9-3Users.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9-4numbersevd_pages234" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter9/9-4numbersevd_pages234.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p89" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/p89.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p90 organizing a list" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/P90_organizing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.9-4numbersevd_pages234" />
+        <item itemvalue="Python.9-3Users" />
+        <item itemvalue="Python.9-2Three Restaurant P228" />
+        <item itemvalue="Python.9-1Restaurant" />
+        <item itemvalue="Python.7-1rental Car" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4e3436c-4377-4b05-ac3e-7eec357f3ac4" name="Default Changelist" comment="" />
+      <created>1582633639563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582633639563</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="125" key="#Inspections" timestamp="1583095829386">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="297" y="125" key="#Inspections/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583095829386" />
+    <state x="411" y="72" key="#P93" timestamp="1582660892514">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="411" y="72" key="#P93/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1582660892514" />
+    <state x="256" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582659759133">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="256" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1582659759133" />
+    <state x="256" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1582638498600" />
+    <state x="464" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583229597162">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="529" y="-759" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.873/-90.-1057.1920.1057@-90.-1057.1920.1057" timestamp="1583101218538" />
+    <state x="464" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583177727999" />
+    <state x="464" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1583229597162" />
+    <state x="475" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583263040280">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="475" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583263040280" />
+    <state x="475" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1583222011786" />
+    <state x="501" y="72" key="#p89" timestamp="1582638616389">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="501" y="72" key="#p89/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1582638616389" />
+    <state x="411" y="72" key="#p90_organizing_a_list" timestamp="1582661044081">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="411" y="72" key="#p90_organizing_a_list/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1582661044081" />
+    <state x="461" y="317" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582661000732">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="461" y="317" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1582661000732" />
+    <state x="106" y="123" width="1240" height="673" key="DiffContextDialog" timestamp="1583097980360">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="106" y="123" width="1240" height="673" key="DiffContextDialog/0.23.1440.873/-90.-1057.1920.1057@-90.-1057.1920.1057" timestamp="1583097980360" />
+    <state width="1325" height="239" key="GridCell.Tab.0.bottom" timestamp="1583310268033">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1419" height="239" key="GridCell.Tab.0.bottom/0.23.1440.873/-90.-1057.1920.1057@-90.-1057.1920.1057" timestamp="1583101457550" />
+    <state width="1325" height="239" key="GridCell.Tab.0.bottom/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583270693811" />
+    <state width="1325" height="239" key="GridCell.Tab.0.bottom/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1583310268033" />
+    <state width="1379" height="216" key="GridCell.Tab.0.bottom/0.23.1440.877/-90.-1057.1920.1053@0.23.1440.877" timestamp="1582751383278" />
+    <state width="1379" height="216" key="GridCell.Tab.0.bottom/0.23.1440.877/-96.-877.1600.873@0.23.1440.877" timestamp="1582710363319" />
+    <state width="1325" height="239" key="GridCell.Tab.0.center" timestamp="1583310268032">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1419" height="239" key="GridCell.Tab.0.center/0.23.1440.873/-90.-1057.1920.1057@-90.-1057.1920.1057" timestamp="1583101457549" />
+    <state width="1325" height="239" key="GridCell.Tab.0.center/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583270693811" />
+    <state width="1325" height="239" key="GridCell.Tab.0.center/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1583310268032" />
+    <state width="1379" height="216" key="GridCell.Tab.0.center/0.23.1440.877/-90.-1057.1920.1053@0.23.1440.877" timestamp="1582751383277" />
+    <state width="1379" height="216" key="GridCell.Tab.0.center/0.23.1440.877/-96.-877.1600.873@0.23.1440.877" timestamp="1582710363319" />
+    <state width="1325" height="239" key="GridCell.Tab.0.left" timestamp="1583310268032">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1419" height="239" key="GridCell.Tab.0.left/0.23.1440.873/-90.-1057.1920.1057@-90.-1057.1920.1057" timestamp="1583101457548" />
+    <state width="1325" height="239" key="GridCell.Tab.0.left/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583270693810" />
+    <state width="1325" height="239" key="GridCell.Tab.0.left/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1583310268032" />
+    <state width="1379" height="216" key="GridCell.Tab.0.left/0.23.1440.877/-90.-1057.1920.1053@0.23.1440.877" timestamp="1582751383276" />
+    <state width="1379" height="216" key="GridCell.Tab.0.left/0.23.1440.877/-96.-877.1600.873@0.23.1440.877" timestamp="1582710363318" />
+    <state width="1325" height="239" key="GridCell.Tab.0.right" timestamp="1583310268032">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1419" height="239" key="GridCell.Tab.0.right/0.23.1440.873/-90.-1057.1920.1057@-90.-1057.1920.1057" timestamp="1583101457550" />
+    <state width="1325" height="239" key="GridCell.Tab.0.right/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583270693811" />
+    <state width="1325" height="239" key="GridCell.Tab.0.right/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1583310268032" />
+    <state width="1379" height="216" key="GridCell.Tab.0.right/0.23.1440.877/-90.-1057.1920.1053@0.23.1440.877" timestamp="1582751383277" />
+    <state width="1379" height="216" key="GridCell.Tab.0.right/0.23.1440.877/-96.-877.1600.873@0.23.1440.877" timestamp="1582710363319" />
+    <state width="1325" height="284" key="GridCell.Tab.1.bottom" timestamp="1583310216899">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1419" height="284" key="GridCell.Tab.1.bottom/0.23.1440.873/-90.-1057.1920.1057@-90.-1057.1920.1057" timestamp="1583100303693" />
+    <state width="1325" height="284" key="GridCell.Tab.1.bottom/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583175118574" />
+    <state width="1325" height="284" key="GridCell.Tab.1.bottom/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1583310216899" />
+    <state width="1325" height="284" key="GridCell.Tab.1.center" timestamp="1583310216899">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1419" height="284" key="GridCell.Tab.1.center/0.23.1440.873/-90.-1057.1920.1057@-90.-1057.1920.1057" timestamp="1583100303692" />
+    <state width="1325" height="284" key="GridCell.Tab.1.center/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583175118573" />
+    <state width="1325" height="284" key="GridCell.Tab.1.center/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1583310216899" />
+    <state width="1325" height="284" key="GridCell.Tab.1.left" timestamp="1583310216899">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1419" height="284" key="GridCell.Tab.1.left/0.23.1440.873/-90.-1057.1920.1057@-90.-1057.1920.1057" timestamp="1583100303692" />
+    <state width="1325" height="284" key="GridCell.Tab.1.left/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583175118573" />
+    <state width="1325" height="284" key="GridCell.Tab.1.left/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1583310216899" />
+    <state width="1325" height="284" key="GridCell.Tab.1.right" timestamp="1583310216899">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1419" height="284" key="GridCell.Tab.1.right/0.23.1440.873/-90.-1057.1920.1057@-90.-1057.1920.1057" timestamp="1583100303693" />
+    <state width="1325" height="284" key="GridCell.Tab.1.right/0.23.1440.873/-90.-1057.1920.1057@0.23.1440.873" timestamp="1583175118573" />
+    <state width="1325" height="284" key="GridCell.Tab.1.right/0.23.1440.873/-96.-877.1600.877@0.23.1440.873" timestamp="1583310216899" />
+    <state x="399" y="292" key="com.intellij.ide.util.TipDialog" timestamp="1582868213770">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="399" y="292" key="com.intellij.ide.util.TipDialog/0.23.1440.873@0.23.1440.873" timestamp="1582868213770" />
+  </component>
+</project>

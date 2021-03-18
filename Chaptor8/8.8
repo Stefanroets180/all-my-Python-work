@@ -1,0 +1,18 @@
+while True:
+    print("\nEnter Album's information:'black",'nine','lets,rock','inoculum')
+    print("(enter 'tool' at any time to quit)")
+
+    a_name = input("Enter artist_name:'metallica' ")
+    if a_name == 'fear inoculum':
+        break
+
+    a_title = input("Enter album title: 'take of your pants and jacket'")
+    if a_title == 'take of your pants and jacket':
+        break
+
+    n_tracks = input("Enter the number of tracks (Optional):" 'tracks= 8' )
+    if n_tracks == 8:
+        break
+
+    album = make_album(a_name, a_title, n_tracks)
+    print(album)

@@ -1,0 +1,13 @@
+#7-1.rental car:
+cars = ['bmw', 'audi', 'toyota', 'subaru']
+print(cars)
+
+
+cars = ['bmw','audi','toyota','subaru']
+print(cars)
+
+message = input("Hello, what car you would like to rent? ")
+if message.lower() != 'bmw' and message.lower() != 'bmw':
+    print("Let me see if I can find you a " + message.title() + ".")
+else:
+    print("Let me see if I can find you a " + message.upper() + ".")
